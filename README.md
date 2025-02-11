@@ -16,11 +16,24 @@
 
 ## Problem 1 : Line
 
+### Test Code
+
+![Test Code MyLine](src/Problem1/Screenshot 2025-02-10 at 7.58.45 PM.png "Test Code MyLine")
+
+---
 
 ## Exercise 2: Rectangle
 
+### Class Diagram
+
+![MyRectangle Class Diagramimg](src/Problem2/MyRectangleClassDiagram.svg "MyRectangle Class Diagram")
+
+### Test Code
+
+![imgTest Code MyRectangle](src/Problem2/Screenshot 2025-02-10 at 10.21.12 PM.png "Test Code MyRectangle")
+
+---
 
 ## Exercise 3: Aggregation
-
 
 ---
